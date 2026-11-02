@@ -1,0 +1,44 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://hotelgranadacentro.com/",
+ "read_at": "2026-11-02T07:27:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://hotelgranadacentro.com/",
+   "sha256": "53726aa1441872d3d82eb7ce2f327be6da44f49255166c5852176eba7037bf5c",
+   "chars": 11030
+  },
+  {
+   "url": "https://hotelgranadacentro.com/como-llegar/",
+   "sha256": "3a56dabd41a65c8fa92b632780ccf1af03adfb0c35d2189aa8a4a98fc01d3538",
+   "chars": 7967
+  },
+  {
+   "url": "https://hotelgranadacentro.com/habitaciones/",
+   "sha256": "3a8c4ddd6eb2c7db2a13068d690a1561d0c2a6796877d665086db71adce725e2",
+   "chars": 5890
+  },
+  {
+   "url": "https://hotelgranadacentro.com/servicios/",
+   "sha256": "22defb5bf48eefca322adc08ffe793319c9c8e0318e044a5b96d4ce979d8718e",
+   "chars": 4443
+  }
+ ],
+ "other_pages_read": [
+  "https://hotelgranadacentro.com",
+  "https://hotelgranadacentro.com/contacto/",
+  "https://hotelgranadacentro.com/en/",
+  "https://hotelgranadacentro.com/habitacion/doble-estandar/",
+  "https://hotelgranadacentro.com/habitacion/doble-superior/",
+  "https://hotelgranadacentro.com/habitacion/habitacion-para-2-con-cama-doble/",
+  "https://hotelgranadacentro.com/habitacion/habitacion-para-2-economica/",
+  "https://hotelgranadacentro.com/habitacion/matrimonial-pequena/",
+  "https://hotelgranadacentro.com/habitacion/triple/",
+  "https://hotelgranadacentro.com/it/",
+  "https://hotelgranadacentro.com/ofertas/",
+  "https://hotelgranadacentro.com/opiniones/",
+  "https://hotelgranadacentro.com/vive-granada/",
+  "https://us2.cloudbeds.com/es-es/reservation/W6kTGJ/?currency=eur"
+ ]
+}
