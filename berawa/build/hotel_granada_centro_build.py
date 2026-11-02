@@ -22,7 +22,7 @@ main:focus{outline:none;box-shadow:none}
 .hero:after{background:linear-gradient(180deg,rgba(0,0,0,.62) 0,rgba(0,0,0,.5) 35%,rgba(0,0,0,.8) 100%)}
 header:not(.s){background:linear-gradient(180deg,rgba(0,0,0,.7),rgba(0,0,0,0))}
 .hero h1,.hero p,.hero .kick,.brand,.links a,.langs button{text-shadow:0 1px 3px rgba(0,0,0,.55)}
-.hero .btn.ghost{background:#1f1d1a}
+.hero .btn.ghost{background:#1f1d1a}.hero .kick{display:inline-block;background:#1f1d1a;padding:.25em .7em;border-radius:6px;opacity:1}
 header.s{backdrop-filter:none;-webkit-backdrop-filter:none}
 header.s .brand,header.s .links a,header.s .langs button{text-shadow:none}
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important;animation:none!important}}
