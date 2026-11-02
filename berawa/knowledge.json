@@ -1,0 +1,525 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hotel-granada-centro",
+ "source_site": "https://hotelgranadacentro.com/",
+ "source_read_at": "2026-11-02T07:27:00+01:00",
+ "note": "Respuestas solo con datos publicados en la web del negocio. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "que habitaciones",
+     "tipos de habitacion",
+     "individual",
+     "doble"
+    ],
+    "en": [
+     "which rooms",
+     "room types",
+     "single",
+     "double"
+    ],
+    "fr": [
+     "quelles chambres",
+     "individuelle",
+     "double"
+    ],
+    "de": [
+     "welche zimmer",
+     "einzelzimmer",
+     "doppelzimmer"
+    ]
+   },
+   "a": {
+    "es": "Hay doble estándar, doble superior, doble matrimonial, doble matrimonial pequeña, doble económica en planta baja, triple, individual y familiar. Todas con baño privado.",
+    "en": "There are standard double, superior double, double with double bed, small double, economy double on the ground floor, triple, single and family rooms. All with private bathroom.",
+    "fr": "Il y a des chambres double standard, double supérieure, double avec lit double, petite double, double économique au rez-de-chaussée, triple, individuelle et familiale. Toutes avec salle de bains privée.",
+    "de": "Es gibt Standard-Doppelzimmer, Superior-Doppelzimmer, Doppelzimmer mit Doppelbett, kleines Doppelzimmer, Economy-Doppelzimmer im Erdgeschoss, Dreibett-, Einzel- und Familienzimmer. Alle mit eigenem Bad."
+   },
+   "sources": [
+    {
+     "url": "https://hotelgranadacentro.com/",
+     "quote": "Doble Estándar Doble Superior Doble Matrimonial Doble Matrimonial Pequeña Doble Económica Planta Baja Triple Individual Familiar"
+    },
+    {
+     "url": "https://hotelgranadacentro.com/habitaciones/",
+     "quote": "En todas ellas, encontrarás un baño privado"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "familias",
+   "keys": {
+    "es": [
+     "familia",
+     "ninos",
+     "triple"
+    ],
+    "en": [
+     "family",
+     "children",
+     "triple"
+    ],
+    "fr": [
+     "famil",
+     "enfants",
+     "triple"
+    ],
+    "de": [
+     "famili",
+     "dreibett"
+    ]
+   },
+   "a": {
+    "es": "Sí. La habitación familiar tiene dos dormitorios dobles comunicados, con baño y aseo privado, y uno de ellos tiene terraza con vistas a la ciudad. También hay triple con tres camas individuales.",
+    "en": "Yes. The family room has two connecting double bedrooms, with private bathroom and toilet, and one of them has a terrace with city views. There is also a triple with three single beds.",
+    "fr": "Oui. La chambre familiale a deux chambres doubles communicantes, avec salle de bains et toilettes privées, et l’une d’elles a une terrasse avec vue sur la ville. Il y a aussi une triple avec trois lits simples.",
+    "de": "Ja. Das Familienzimmer hat zwei verbundene Doppelschlafzimmer mit eigenem Bad und WC, eines davon mit Terrasse und Stadtblick. Außerdem gibt es ein Dreibettzimmer mit drei Einzelbetten."
+   },
+   "sources": [
+    {
+     "url": "https://hotelgranadacentro.com/habitaciones/",
+     "quote": "Dos dormitorios dobles comunicados entre sí, con un cuarto de baño y aseo privado"
+    },
+    {
+     "url": "https://hotelgranadacentro.com/habitaciones/",
+     "quote": "una pequeña pero coqueta y preciosa terraza con vistas a la ciudad"
+    },
+    {
+     "url": "https://hotelgranadacentro.com/habitaciones/",
+     "quote": "Una estancia equipada con tres cómodas camas individuales"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "wifi",
+   "keys": {
+    "es": [
+     "wifi",
+     "internet",
+     "aire acondicionado",
+     "calefaccion"
+    ],
+    "en": [
+     "wifi",
+     "internet",
+     "air condition",
+     "heating"
+    ],
+    "fr": [
+     "wifi",
+     "internet",
+     "climatis",
+     "chauffage"
+    ],
+    "de": [
+     "wlan",
+     "wifi",
+     "internet",
+     "klima",
+     "heizung"
+    ]
+   },
+   "a": {
+    "es": "Sí, hay wifi gratis. Todas las habitaciones tienen calefacción y/o aire acondicionado, TV de pantalla plana, secador y amenities ecológicos.",
+    "en": "Yes, there is free wifi. All rooms have heating and/or air conditioning, flat-screen TV, hairdryer and eco-friendly amenities.",
+    "fr": "Oui, il y a le wifi gratuit. Toutes les chambres ont le chauffage et/ou la climatisation, une TV écran plat, un sèche-cheveux et des produits d’accueil écologiques.",
+    "de": "Ja, es gibt kostenloses WLAN. Alle Zimmer haben Heizung und/oder Klimaanlage, Flachbild-TV, Haartrockner und ökologische Pflegeprodukte."
+   },
+   "sources": [
+    {
+     "url": "https://hotelgranadacentro.com/habitaciones/",
+     "quote": "calefacción y/o aire acondicionado, TV de pantalla plana, wi-fi gratis, secador, amenities ecológicos"
+    },
+    {
+     "url": "https://hotelgranadacentro.com/servicios/",
+     "quote": "Wifi Gratis"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "parking",
+   "keys": {
+    "es": [
+     "parking",
+     "aparc"
+    ],
+    "en": [
+     "parking"
+    ],
+    "fr": [
+     "parking",
+     "garer"
+    ],
+    "de": [
+     "parkpl",
+     "parken",
+     "parkhaus"
+    ]
+   },
+   "a": {
+    "es": "Sí, puedes aparcar en un parking cercano. Si reservas directamente con el hotel, tienes precio especial al contratar la plaza a tu llegada: consúltalo en recepción.",
+    "en": "Yes, you can park in a nearby car park. If you book directly with the hotel, you get a special price when you book the space on arrival: ask at reception.",
+    "fr": "Oui, vous pouvez vous garer dans un parking proche. En réservant directement auprès de l’hôtel, vous avez un prix spécial en prenant la place à l’arrivée : renseignez-vous à la réception.",
+    "de": "Ja, Sie können in einem nahen Parkhaus parken. Bei Direktbuchung beim Hotel gibt es einen Sonderpreis, wenn Sie den Platz bei Ankunft buchen: fragen Sie an der Rezeption."
+   },
+   "sources": [
+    {
+     "url": "https://hotelgranadacentro.com/servicios/",
+     "quote": "Si aun así necesitas estacionar tu vehículo, podrás hacerlo en un parking cercano"
+    },
+    {
+     "url": "https://hotelgranadacentro.com/servicios/",
+     "quote": "si reservas directamente tu alojamiento con nosotros podrás contratar plaza a tu llegada a un precio súper especial"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "llegada-coche",
+   "keys": {
+    "es": [
+     "descarg",
+     "vado",
+     "en la puerta"
+    ],
+    "en": [
+     "unload",
+     "loading bay"
+    ],
+    "fr": [
+     "decharg"
+    ],
+    "de": [
+     "auslad",
+     "halten"
+    ]
+   },
+   "a": {
+    "es": "Sí. Justo enfrente de la entrada hay un vado privado: descargas el equipaje, haces el check-in y después llevas el coche al parking. El acceso al centro está regulado, así que conviene seguir sus rutas de acceso.",
+    "en": "Yes. Right in front of the entrance there is a private loading bay: unload your luggage, check in and then take the car to the car park. Access to the centre is regulated, so it is best to follow their access routes.",
+    "fr": "Oui. Juste devant l’entrée, il y a un emplacement privé : vous déchargez les bagages, faites le check-in puis emmenez la voiture au parking. L’accès au centre est réglementé : mieux vaut suivre leurs itinéraires d’accès.",
+    "de": "Ja. Direkt vor dem Eingang gibt es eine private Haltezone: Gepäck ausladen, einchecken und dann das Auto ins Parkhaus bringen. Die Zufahrt ins Zentrum ist reguliert, daher am besten den Anfahrtsrouten des Hotels folgen."
+   },
+   "sources": [
+    {
+     "url": "https://hotelgranadacentro.com/como-llegar/",
+     "quote": "Justo enfrente de la entrada disponemos de un vado privado"
+    },
+    {
+     "url": "https://hotelgranadacentro.com/servicios/",
+     "quote": "Descarga el equipaje, haz el check in y después lleva tranquilamente el coche al parking"
+    },
+    {
+     "url": "https://hotelgranadacentro.com/como-llegar/",
+     "quote": "El acceso al centro en Granada está regulado"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "mascotas",
+   "keys": {
+    "es": [
+     "mascota",
+     "perro",
+     "gato"
+    ],
+    "en": [
+     "pet",
+     "dog"
+    ],
+    "fr": [
+     "animaux",
+     "chien"
+    ],
+    "de": [
+     "haustier",
+     "hund"
+    ]
+   },
+   "a": {
+    "es": "Sí, es un hotel pet friendly: puedes alojarte con tu mascota. El servicio tiene un suplemento por día; avisa al reservar y consulta las condiciones.",
+    "en": "Yes, it is a pet-friendly hotel: you can stay with your pet. The service has a daily supplement; let them know when booking and ask about the conditions.",
+    "fr": "Oui, c’est un hôtel qui accepte les animaux : vous pouvez séjourner avec votre animal. Le service a un supplément par jour ; prévenez lors de la réservation et renseignez-vous sur les conditions.",
+    "de": "Ja, es ist ein haustierfreundliches Hotel: Sie können mit Ihrem Haustier übernachten. Dafür gibt es einen Tageszuschlag; bitte bei der Buchung angeben und nach den Bedingungen fragen."
+   },
+   "sources": [
+    {
+     "url": "https://hotelgranadacentro.com/servicios/",
+     "quote": "HOTEL PET FRIENDLY ¿Te imaginas descubrir Granada junto a tu mascota? Alojándote en el hotel Granada Centro es posible."
+    },
+    {
+     "url": "https://hotelgranadacentro.com/servicios/",
+     "quote": "El precio habitual del servicio es de 13 euros/día"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "ubicacion",
+   "keys": {
+    "es": [
+     "donde estais",
+     "donde esta el",
+     "direccion",
+     "ubicacion",
+     "como llegar",
+     "gran via"
+    ],
+    "en": [
+     "where are",
+     "where is the",
+     "address",
+     "location",
+     "gran via"
+    ],
+    "fr": [
+     "ou etes",
+     "ou se trouv",
+     "adresse",
+     "emplacement",
+     "gran via"
+    ],
+    "de": [
+     "wo liegt",
+     "wo sind",
+     "adresse",
+     "lage",
+     "gran via"
+    ]
+   },
+   "a": {
+    "es": "Estamos en la Calle Navarrete, 7, 18001 Granada, en pleno centro: a cincuenta metros de Gran Vía y a pocos minutos andando de los principales lugares de interés.",
+    "en": "We are at Calle Navarrete, 7, 18001 Granada, right in the centre: fifty metres from Gran Vía and a few minutes’ walk from the main sights.",
+    "fr": "Nous sommes Calle Navarrete, 7, 18001 Grenade, en plein centre : à cinquante mètres de Gran Vía et à quelques minutes à pied des principaux sites.",
+    "de": "Wir sind in der Calle Navarrete, 7, 18001 Granada, mitten im Zentrum: fünfzig Meter von der Gran Vía und wenige Gehminuten von den wichtigsten Sehenswürdigkeiten."
+   },
+   "sources": [
+    {
+     "url": "https://hotelgranadacentro.com/como-llegar/",
+     "quote": "Calle Navarrete, 7 · 18001 Granada"
+    },
+    {
+     "url": "https://hotelgranadacentro.com/como-llegar/",
+     "quote": "En pleno centro de Granada, a cincuenta metros de Gran Vía y a pocos minutos andando de los principales lugares de interés de la ciudad"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "recepcion",
+   "keys": {
+    "es": [
+     "recepcion"
+    ],
+    "en": [
+     "reception"
+    ],
+    "fr": [
+     "reception"
+    ],
+    "de": [
+     "rezeption"
+    ]
+   },
+   "a": {
+    "es": "Sí, la recepción está abierta las 24 horas.",
+    "en": "Yes, reception is open 24 hours.",
+    "fr": "Oui, la réception est ouverte 24 h/24.",
+    "de": "Ja, die Rezeption ist rund um die Uhr (24 Stunden) geöffnet."
+   },
+   "sources": [
+    {
+     "url": "https://hotelgranadacentro.com/como-llegar/",
+     "quote": "Recepción abierta las 24 horas"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "de": [
+     "buch",
+     "reserv",
+     "verfugbar",
+     "bestatig"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar en su motor de reservas (botón Reservar) o llamando al +34 958 278 824. Este asistente no confirma disponibilidad ni reservas.",
+    "en": "You can book on their booking engine (Book button) or by calling +34 958 278 824. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver sur leur moteur de réservation (bouton Réserver) ou en appelant le +34 958 278 824. Cet assistant ne confirme ni disponibilité ni réservation.",
+    "de": "Sie können über die Buchungsmaschine buchen (Schaltfläche Buchen) oder unter +34 958 278 824 anrufen. Dieser Assistent bestätigt weder Verfügbarkeit noch Buchungen."
+   },
+   "sources": [
+    {
+     "url": "https://hotelgranadacentro.com/",
+     "quote": "RESERVA"
+    },
+    {
+     "url": "https://hotelgranadacentro.com/",
+     "quote": "+34 958 278 824"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K10",
+   "topic": "cuna",
+   "keys": {
+    "es": [
+     "cuna"
+    ],
+    "en": [
+     "a cot",
+     "crib",
+     "baby"
+    ],
+    "fr": [
+     "lit bebe",
+     "berceau"
+    ],
+    "de": [
+     "kinderbett",
+     "babybett"
+    ]
+   },
+   "a": {
+    "es": "Sí, hay cuna gratuita bajo petición. Pídela con antelación a recepción.",
+    "en": "Yes, there is a free cot on request. Ask reception in advance.",
+    "fr": "Oui, il y a un lit bébé gratuit sur demande. Demandez-le à l’avance à la réception.",
+    "de": "Ja, es gibt ein kostenloses Kinderbett auf Anfrage. Bitte vorab bei der Rezeption anfragen."
+   },
+   "sources": [
+    {
+     "url": "https://hotelgranadacentro.com/servicios/",
+     "quote": "Cuna gratuita (Bajo petición)"
+    },
+    {
+     "url": "https://hotelgranadacentro.com/servicios/",
+     "quote": "Tan sólo tienes que contactar con recepción"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "equipaje",
+   "keys": {
+    "es": [
+     "maleta",
+     "equipaje"
+    ],
+    "en": [
+     "luggage",
+     "suitcase"
+    ],
+    "fr": [
+     "bagage",
+     "valise"
+    ],
+    "de": [
+     "gepack",
+     "koffer"
+    ]
+   },
+   "a": {
+    "es": "Sí, hay consigna para equipajes.",
+    "en": "Yes, there is luggage storage.",
+    "fr": "Oui, il y a une bagagerie.",
+    "de": "Ja, es gibt eine Gepäckaufbewahrung."
+   },
+   "sources": [
+    {
+     "url": "https://hotelgranadacentro.com/servicios/",
+     "quote": "Consigna para equipajes"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K12",
+   "topic": "contacto",
+   "keys": {
+    "es": [
+     "telefono",
+     "llamar",
+     "correo",
+     "email",
+     "contacto"
+    ],
+    "en": [
+     "phone",
+     "call",
+     "email",
+     "contact"
+    ],
+    "fr": [
+     "telephone",
+     "appeler",
+     "courriel",
+     "email",
+     "contact"
+    ],
+    "de": [
+     "telefon",
+     "anrufen",
+     "mail",
+     "kontakt"
+    ]
+   },
+   "a": {
+    "es": "Teléfonos: +34 958 278 824 y +34 679 550 000. Correo: info@hotelgranadacentro.com.",
+    "en": "Phones: +34 958 278 824 and +34 679 550 000. Email: info@hotelgranadacentro.com.",
+    "fr": "Téléphones : +34 958 278 824 et +34 679 550 000. E-mail : info@hotelgranadacentro.com.",
+    "de": "Telefon: +34 958 278 824 und +34 679 550 000. E-Mail: info@hotelgranadacentro.com."
+   },
+   "sources": [
+    {
+     "url": "https://hotelgranadacentro.com/",
+     "quote": "+34 958 278 824"
+    },
+    {
+     "url": "https://hotelgranadacentro.com/",
+     "quote": "+34 679 550 000"
+    },
+    {
+     "url": "https://hotelgranadacentro.com/",
+     "quote": "info@hotelgranadacentro.com"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
