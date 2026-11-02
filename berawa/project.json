@@ -1,0 +1,64 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hotel-granada-centro",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-11-02T07:26:00+01:00",
+ "updated_at": "2026-11-02T07:36:00+01:00",
+ "business": {
+  "name": "Hotel Granada Centro",
+  "legal_name": "Alhambra Hoteles 2001, S.L., CIF B18595959 (aviso legal de su web)",
+  "registry_ids": [
+   "B18595959"
+  ],
+  "url": "https://hotelgranadacentro.com/",
+  "domain": "hotelgranadacentro.com",
+  "municipality": "Granada",
+  "province": "Granada",
+  "address": "Calle Navarrete, 7 · 18001 Granada",
+  "phones": [
+   "+34 958 278 824",
+   "+34 679 550 000"
+  ],
+  "emails": [
+   "info@hotelgranadacentro.com"
+  ],
+  "sector": "hotel en el centro de Granada junto a Gran Via"
+ },
+ "rating": {
+  "value": 4.3,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por tel, web)",
+  "url": "https://www.google.com/maps/place/Hotel+Granada+Centro/@37.1810901,-3.6008146,17z",
+  "date": "2026-10-29",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "en",
+  "fr",
+  "de"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": "https://us2.cloudbeds.com/es-es/reservation/W6kTGJ/?currency=eur",
+  "note": "motor Cloudbeds de su web (pagina /reserva/ carga el motor W6kTGJ): https://us2.cloudbeds.com/{es-es,en,fr,de}/reservation/W6kTGJ/?currency=eur, HTTP 200 en los 4 (02/11/2026 07:27)."
+ },
+ "audit_original": {
+  "url": "https://hotelgranadacentro.com/",
+  "date": "2026-11-02T07:26:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: alojamiento con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
