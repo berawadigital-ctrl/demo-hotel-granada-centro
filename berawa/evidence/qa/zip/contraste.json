@@ -1,17 +1,6 @@
 {
  "total": 108,
- "fallos": [
-  {
-   "vp": "desktop",
-   "l": "de",
-   "sel": "div[data-t=\"hero_k\"]",
-   "color": "rgb(255, 255, 255)",
-   "size": 12.48,
-   "peor_contraste": 1.94,
-   "minimo": 4.5,
-   "ok": false
-  }
- ],
+ "fallos": [],
  "detalle": [
   {
    "vp": "desktop",
@@ -139,7 +128,7 @@
    "sel": "div[data-t=\"hero_k\"]",
    "color": "rgb(255, 255, 255)",
    "size": 12.48,
-   "peor_contraste": 5.78,
+   "peor_contraste": 16.81,
    "minimo": 4.5,
    "ok": true
   },
@@ -289,7 +278,7 @@
    "sel": "div[data-t=\"hero_k\"]",
    "color": "rgb(255, 255, 255)",
    "size": 12.48,
-   "peor_contraste": 18.71,
+   "peor_contraste": 16.81,
    "minimo": 4.5,
    "ok": true
   },
@@ -439,7 +428,7 @@
    "sel": "div[data-t=\"hero_k\"]",
    "color": "rgb(255, 255, 255)",
    "size": 12.48,
-   "peor_contraste": 6.05,
+   "peor_contraste": 16.81,
    "minimo": 4.5,
    "ok": true
   },
@@ -469,7 +458,7 @@
    "sel": ".brand",
    "color": "rgb(255, 255, 255)",
    "size": 23.2,
-   "peor_contraste": 14.9,
+   "peor_contraste": 11.88,
    "minimo": 4.5,
    "ok": true
   },
@@ -589,9 +578,9 @@
    "sel": "div[data-t=\"hero_k\"]",
    "color": "rgb(255, 255, 255)",
    "size": 12.48,
-   "peor_contraste": 1.94,
+   "peor_contraste": 16.81,
    "minimo": 4.5,
-   "ok": false
+   "ok": true
   },
   {
    "vp": "desktop",
@@ -709,7 +698,7 @@
    "sel": "div[data-t=\"hero_k\"]",
    "color": "rgb(255, 255, 255)",
    "size": 12.48,
-   "peor_contraste": 5.35,
+   "peor_contraste": 16.81,
    "minimo": 4.5,
    "ok": true
   },
@@ -829,7 +818,7 @@
    "sel": "div[data-t=\"hero_k\"]",
    "color": "rgb(255, 255, 255)",
    "size": 12.48,
-   "peor_contraste": 5.69,
+   "peor_contraste": 16.81,
    "minimo": 4.5,
    "ok": true
   },
@@ -949,7 +938,7 @@
    "sel": "div[data-t=\"hero_k\"]",
    "color": "rgb(255, 255, 255)",
    "size": 12.48,
-   "peor_contraste": 5.35,
+   "peor_contraste": 16.81,
    "minimo": 4.5,
    "ok": true
   },
@@ -1069,7 +1058,7 @@
    "sel": "div[data-t=\"hero_k\"]",
    "color": "rgb(255, 255, 255)",
    "size": 12.48,
-   "peor_contraste": 5.98,
+   "peor_contraste": 16.81,
    "minimo": 4.5,
    "ok": true
   },

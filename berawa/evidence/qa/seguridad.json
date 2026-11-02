@@ -41,7 +41,7 @@
    "detalle": ""
   },
   "S10 sin secretos/claves/tokens en el código": {
-   "ok": false,
+   "ok": true,
    "detalle": ""
   },
   "S11 la CSP bloquea script inline inyectado": {
@@ -57,11 +57,9 @@
    "detalle": "&lt;img src=x onerror=window.__x=1&gt;&lt;b&gt;hola&lt;/b&gt;"
   }
  },
- "fail": [
-  "S10 sin secretos/claves/tokens en el código"
- ],
+ "fail": [],
  "url_externas_en_js": [
   "https://us2.cloudbeds.com"
  ],
- "ok": false
+ "ok": true
 }

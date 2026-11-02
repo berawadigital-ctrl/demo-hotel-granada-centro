@@ -1,14 +1,9 @@
 OK    tests_hotel_granada_centro: 4 idiomas + chatbot contra la base (HTTP)
 OK    a11y_test: axe-core + teclado (HTTP)
-FALLO contrast_manual: contraste de nodos «incompletos» de axe
-   108 nodos medidos; 1 por debajo del mínimo
-   {'vp': 'desktop', 'l': 'de', 'sel': 'div[data-t="hero_k"]', 'color': 'rgb(255, 255, 255)', 'size': 12.48, 'peor_contraste': 1.94, 'minimo': 4.5, 'ok': False}
-   /workspace/agentes/webs/demos-v10/repos/demo-hotel-granada-centro/berawa/build/contrast_manual.py:31: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
-     im=Image.open(io.BytesIO(png)).convert('RGB');px=list(im.getdata())
+OK    contrast_manual: contraste de nodos «incompletos» de axe
 OK    keys_test: claves del chat sin ambiguedad
-FALLO sec_scan: revision estatica + CSP efectiva
-   FALLOS ['S10 sin secretos/claves/tokens en el código']
+OK    sec_scan: revision estatica + CSP efectiva
 OK    tests_hotel_granada_centro por file://
 OK    a11y_test por file://
 
-5/7 comprobaciones OK · resultados en /workspace/agentes/webs/demos-v10/repos/demo-hotel-granada-centro/berawa/evidence/qa/zip
+7/7 comprobaciones OK · resultados en /workspace/agentes/webs/demos-v10/repos/demo-hotel-granada-centro/berawa/evidence/qa/zip

@@ -1,17 +1,12 @@
-HEAD c40a46c0f0a8eaa9183bc19332e1e95c17ea80e0
+HEAD 438ee3eb0b153b3fc5d5adf0bb5fba4e24cfb31a
 OK    check_kb (citas + regla de precios P1-P6) sobre berawa/knowledge.json
 OK    tests_hotel_granada_centro: 4 idiomas + chatbot contra la base (HTTP)
 OK    a11y_test: axe-core + teclado (HTTP)
-FALLO contrast_manual: contraste de nodos «incompletos» de axe
-   108 nodos medidos; 1 por debajo del mínimo
-   {'vp': 'desktop', 'l': 'de', 'sel': 'div[data-t="hero_k"]', 'color': 'rgb(255, 255, 255)', 'size': 12.48, 'peor_contraste': 1.94, 'minimo': 4.5, 'ok': False}
-   /tmp/clon-hotel-granada-centro/repo/berawa/build/contrast_manual.py:31: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
-     im=Image.open(io.BytesIO(png)).convert('RGB');px=list(im.getdata())
+OK    contrast_manual: contraste de nodos «incompletos» de axe
 OK    keys_test: claves del chat sin ambiguedad
-FALLO sec_scan: revision estatica + CSP efectiva
-   FALLOS ['S10 sin secretos/claves/tokens en el código']
+OK    sec_scan: revision estatica + CSP efectiva
 OK    tests_hotel_granada_centro por file://
 OK    a11y_test por file://
 
-6/8 comprobaciones OK · resultados en /tmp/clon-hotel-granada-centro/out
-run_checks exit 1
+8/8 comprobaciones OK · resultados en /tmp/clon-hotel-granada-centro/out
+run_checks exit 0
