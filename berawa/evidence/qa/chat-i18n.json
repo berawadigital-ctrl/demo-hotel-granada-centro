@@ -1,0 +1,419 @@
+{
+ "url": "http://127.0.0.1:40779/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay doble estándar, doble superior, doble matrimonial, doble matrimonial pequeña, doble económica en planta baja, triple, individual y famil"
+    },
+    {
+     "q": "¿Tenéis habitación familiar?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí. La habitación familiar tiene dos dormitorios dobles comunicados, con baño y aseo privado, y uno de ellos tiene terraza con vistas a la c"
+    },
+    {
+     "q": "¿Hay wifi?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí, hay wifi gratis. Todas las habitaciones tienen calefacción y/o aire acondicionado, TV de pantalla plana, secador y amenities ecológicos."
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Sí, puedes aparcar en un parking cercano. Si reservas directamente con el hotel, tienes precio especial al contratar la plaza a tu llegada: "
+    },
+    {
+     "q": "¿Puedo parar en la puerta a descargar?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Sí. Justo enfrente de la entrada hay un vado privado: descargas el equipaje, haces el check-in y después llevas el coche al parking. El acce"
+    },
+    {
+     "q": "¿Admitís mascotas?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Sí, es un hotel pet friendly: puedes alojarte con tu mascota. El servicio tiene un suplemento por día; avisa al reservar y consulta las cond"
+    },
+    {
+     "q": "¿Dónde estáis?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Estamos en la Calle Navarrete, 7, 18001 Granada, en pleno centro: a cincuenta metros de Gran Vía y a pocos minutos andando de los principale"
+    },
+    {
+     "q": "¿Hay recepción 24 horas?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sí, la recepción está abierta las 24 horas."
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar) o llamando al +34 958 278 824. Este asistente no confirma disponibilidad ni reserva"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar) o llamando al +34 958 278 824. Este asistente no confirma disponibilidad ni reserva"
+    },
+    {
+     "q": "¿Tenéis cuna?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Sí, hay cuna gratuita bajo petición. Pídela con antelación a recepción."
+    },
+    {
+     "q": "¿Puedo dejar las maletas?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Sí, hay consigna para equipajes."
+    },
+    {
+     "q": "¿Cuál es vuestro teléfono?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Teléfonos: +34 958 278 824 y +34 679 550 000. Correo: info@hotelgranadacentro.com."
+    },
+    {
+     "q": "¿Cuánto cuesta la noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 958 278 824 · +34 679 550 000 · info@hotelgranadacentro.com."
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 958 278 824 · +34 679 550 000 · info@hotelgranadacentro.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tenéis?",
+    "¿Hay parking?",
+    "¿Admitís mascotas?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Which rooms do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are standard double, superior double, double with double bed, small double, economy double on the ground floor, triple, single and fam"
+    },
+    {
+     "q": "Do you have a family room?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Yes. The family room has two connecting double bedrooms, with private bathroom and toilet, and one of them has a terrace with city views. Th"
+    },
+    {
+     "q": "Is there wifi?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Yes, there is free wifi. All rooms have heating and/or air conditioning, flat-screen TV, hairdryer and eco-friendly amenities."
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Yes, you can park in a nearby car park. If you book directly with the hotel, you get a special price when you book the space on arrival: ask"
+    },
+    {
+     "q": "Can I stop at the door to unload?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Yes. Right in front of the entrance there is a private loading bay: unload your luggage, check in and then take the car to the car park. Acc"
+    },
+    {
+     "q": "Do you allow pets?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Yes, it is a pet-friendly hotel: you can stay with your pet. The service has a daily supplement; let them know when booking and ask about th"
+    },
+    {
+     "q": "Where are you?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "We are at Calle Navarrete, 7, 18001 Granada, right in the centre: fifty metres from Gran Vía and a few minutes’ walk from the main sights."
+    },
+    {
+     "q": "Is reception open 24 hours?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Yes, reception is open 24 hours."
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can book on their booking engine (Book button) or by calling +34 958 278 824. This assistant does not confirm availability or bookings. "
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can book on their booking engine (Book button) or by calling +34 958 278 824. This assistant does not confirm availability or bookings. "
+    },
+    {
+     "q": "Do you have a cot?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Yes, there is a free cot on request. Ask reception in advance."
+    },
+    {
+     "q": "Can I leave my luggage?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Yes, there is luggage storage."
+    },
+    {
+     "q": "What is your phone number?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Phones: +34 958 278 824 and +34 679 550 000. Email: info@hotelgranadacentro.com."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 958 278 824 · +34 679 550 000 · info@hotelgranadacentro.com."
+    },
+    {
+     "q": "Do you have a pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 958 278 824 · +34 679 550 000 · info@hotelgranadacentro.com."
+    }
+   ],
+   "chips": [
+    "Which rooms do you have?",
+    "Is there parking?",
+    "Do you allow pets?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a des chambres double standard, double supérieure, double avec lit double, petite double, double économique au rez-de-chaussée, triple,"
+    },
+    {
+     "q": "Avez-vous une chambre familiale ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Oui. La chambre familiale a deux chambres doubles communicantes, avec salle de bains et toilettes privées, et l’une d’elles a une terrasse a"
+    },
+    {
+     "q": "Y a-t-il le wifi ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Oui, il y a le wifi gratuit. Toutes les chambres ont le chauffage et/ou la climatisation, une TV écran plat, un sèche-cheveux et des produit"
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Oui, vous pouvez vous garer dans un parking proche. En réservant directement auprès de l’hôtel, vous avez un prix spécial en prenant la plac"
+    },
+    {
+     "q": "Puis-je m’arrêter devant la porte pour décharger ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Oui. Juste devant l’entrée, il y a un emplacement privé : vous déchargez les bagages, faites le check-in puis emmenez la voiture au parking."
+    },
+    {
+     "q": "Acceptez-vous les animaux ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Oui, c’est un hôtel qui accepte les animaux : vous pouvez séjourner avec votre animal. Le service a un supplément par jour ; prévenez lors d"
+    },
+    {
+     "q": "Où êtes-vous ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Nous sommes Calle Navarrete, 7, 18001 Grenade, en plein centre : à cinquante mètres de Gran Vía et à quelques minutes à pied des principaux "
+    },
+    {
+     "q": "La réception est-elle ouverte 24 h/24 ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Oui, la réception est ouverte 24 h/24."
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur leur moteur de réservation (bouton Réserver) ou en appelant le +34 958 278 824. Cet assistant ne confirme ni dispon"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur leur moteur de réservation (bouton Réserver) ou en appelant le +34 958 278 824. Cet assistant ne confirme ni dispon"
+    },
+    {
+     "q": "Avez-vous un lit bébé ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Oui, il y a un lit bébé gratuit sur demande. Demandez-le à l’avance à la réception."
+    },
+    {
+     "q": "Puis-je laisser mes bagages ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Oui, il y a une bagagerie."
+    },
+    {
+     "q": "Quel est votre numéro de téléphone ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Téléphones : +34 958 278 824 et +34 679 550 000. E-mail : info@hotelgranadacentro.com."
+    },
+    {
+     "q": "Combien coûte la nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 958 278 824 · +34 679 550 000 · info@hotelgranadacentro.com."
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 958 278 824 · +34 679 550 000 · info@hotelgranadacentro.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres avez-vous ?",
+    "Y a-t-il un parking ?",
+    "Acceptez-vous les animaux ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Welche Zimmer gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es gibt Standard-Doppelzimmer, Superior-Doppelzimmer, Doppelzimmer mit Doppelbett, kleines Doppelzimmer, Economy-Doppelzimmer im Erdgeschoss"
+    },
+    {
+     "q": "Haben Sie ein Familienzimmer?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Ja. Das Familienzimmer hat zwei verbundene Doppelschlafzimmer mit eigenem Bad und WC, eines davon mit Terrasse und Stadtblick. Außerdem gibt"
+    },
+    {
+     "q": "Gibt es WLAN?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Ja, es gibt kostenloses WLAN. Alle Zimmer haben Heizung und/oder Klimaanlage, Flachbild-TV, Haartrockner und ökologische Pflegeprodukte."
+    },
+    {
+     "q": "Gibt es Parkplätze?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Ja, Sie können in einem nahen Parkhaus parken. Bei Direktbuchung beim Hotel gibt es einen Sonderpreis, wenn Sie den Platz bei Ankunft buchen"
+    },
+    {
+     "q": "Kann ich vor der Tür zum Ausladen halten?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Ja. Direkt vor dem Eingang gibt es eine private Haltezone: Gepäck ausladen, einchecken und dann das Auto ins Parkhaus bringen. Die Zufahrt i"
+    },
+    {
+     "q": "Sind Haustiere erlaubt?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Ja, es ist ein haustierfreundliches Hotel: Sie können mit Ihrem Haustier übernachten. Dafür gibt es einen Tageszuschlag; bitte bei der Buchu"
+    },
+    {
+     "q": "Wo liegt das Hotel?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Wir sind in der Calle Navarrete, 7, 18001 Granada, mitten im Zentrum: fünfzig Meter von der Gran Vía und wenige Gehminuten von den wichtigst"
+    },
+    {
+     "q": "Ist die Rezeption rund um die Uhr besetzt?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Ja, die Rezeption ist rund um die Uhr (24 Stunden) geöffnet."
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine buchen (Schaltfläche Buchen) oder unter +34 958 278 824 anrufen. Dieser Assistent bestätigt weder Verfü"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine buchen (Schaltfläche Buchen) oder unter +34 958 278 824 anrufen. Dieser Assistent bestätigt weder Verfü"
+    },
+    {
+     "q": "Haben Sie ein Kinderbett?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Ja, es gibt ein kostenloses Kinderbett auf Anfrage. Bitte vorab bei der Rezeption anfragen."
+    },
+    {
+     "q": "Kann ich mein Gepäck lassen?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Ja, es gibt eine Gepäckaufbewahrung."
+    },
+    {
+     "q": "Wie ist Ihre Telefonnummer?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Telefon: +34 958 278 824 und +34 679 550 000. E-Mail: info@hotelgranadacentro.com."
+    },
+    {
+     "q": "Was kostet eine Nacht?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 958 278 824 · +34 679 550 000 · info@hotelgranadacentro.com."
+    },
+    {
+     "q": "Haben Sie einen Pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 958 278 824 · +34 679 550 000 · info@hotelgranadacentro.com."
+    }
+   ],
+   "chips": [
+    "Welche Zimmer gibt es?",
+    "Gibt es Parkplätze?",
+    "Sind Haustiere erlaubt?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
